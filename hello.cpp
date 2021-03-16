@@ -2,5 +2,5 @@
 #include "hello.h"
 
 void hello(){
-	std::cout << "Hello World by ali!\n";
+	std::cout << "GoodBy World by ali!\n";
 }
